@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swerta</h1>
+<h1 align="center">Hi 👋, I'm Sweta Saini</h1>
 <h3 align="center">Data & Automation Enthusiast | Python Developer</h3>
 ## About Me
 
@@ -16,5 +16,10 @@ and continuously improving my technical and analytical skills.
 - Advanced Excel (pivot tables, dashboards, formulas)
 - MySQL (queries, joins, database handling)
 - AI tools for productivity and analysis
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn:-https://www.linkedin.com/in/sweta-saini24/
+  
 
 
