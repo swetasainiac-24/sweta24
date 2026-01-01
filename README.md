@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sweta Saini</h1>
 
-Headline: Data Analytics Specialist | Operations & Supply Chain Intelligence
+ Data Analytics Specialist | Operations & Supply Chain Intelligence
 
-Bio: "I transform complex business data into actionable growth strategies. With a strong foundation in data analytics, I specialize in identifying operational bottlenecks and profit leakages.
+** About Me:-**
+ "I transform complex business data into actionable growth strategies. With a strong foundation in data analytics, I specialize in identifying operational bottlenecks and profit leakages.
 
 Key Achievements:
 
