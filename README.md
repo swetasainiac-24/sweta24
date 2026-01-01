@@ -1,18 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sweta Saini</h1>
+# Hi there 👋, I'm Sweta!
 
- Data Analytics Specialist | Operations & Supply Chain Intelligence
+### Data Analytics Specialist | Supply Chain & Business Intelligence
+I transform raw, complex data into actionable business strategies. Passionate about uncovering hidden trends, optimizing profit margins, and identifying operational risks using Python and SQL.
 
- **About Me:-**
+---
 
- "I transform complex business data into actionable growth strategies. With a strong foundation in data analytics, I specialize in identifying operational bottlenecks and profit leakages.
+### Featured Projects
 
-**Key Achievements:**
+#### 1. [Supply Chain Risk & Profitability Analysis](https://github.com/swetasainiac-24/Supply-Chain-Risk-Profitability-Analysis)
+* **Problem:** High delivery delays and profit leakages in global logistics.
+* **Action:** Developed risk heatmaps and analyzed profit distribution across regions.
+* **Insight:** Identified a 95% delay rate in 'First Class' shipping and critical risk zones in Central Asia/Africa.
+* **Tech:** Python (Pandas, Seaborn, Matplotlib).
 
-**Logistics Risk Analysis:** Developed a risk heatmap for a global supply chain, identifying a 95% failure rate in premium shipping modes and mapping high-risk delivery regions.
+#### 2. [Restaurant Sales Data Analysis] (Link your project here)
+* **Action:** Analyzed order patterns to optimize staff scheduling and inventory.
+* **Insight:** Identified peak performance hours and high-margin product categories.
 
-**Profitability Optimization:** Analyzed restaurant sales data to identify peak performance hours and low-margin product categories.
+---
 
-**Tech Stack:** Python (Pandas, Seaborn, Matplotlib), SQL, Feature Engineering, and Statistical Analysis.
+### Technical Toolbox
+* **Languages:** Python (Advanced Analytics), SQL.
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn.
+* **Techniques:** Data Cleaning, Feature Engineering, Risk Mapping, Financial Modeling.
 
-I don’t just provide graphs; I provide solutions that save costs and improve efficiency."
+---
 
+### Connect with Me
+I am open to freelance projects and collaborations in the Data Analytics domain.
+
+* **LinkedIn:** https://www.linkedin.com/in/sweta-saini24/ 
+
+
+---
