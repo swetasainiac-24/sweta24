@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sweta Saini</h1>
-<h3 align="center">Data & Automation Enthusiast | Python Developer</h3>
-## About Me
 
-I am a detail-oriented professional with hands-on experience in Python, Advanced Excel, and MySQL. 
-I work comfortably with data analysis, reporting, and basic automation tasks.
+Headline: Data Analytics Specialist | Operations & Supply Chain Intelligence
 
-I have practical experience using AI tools to improve efficiency, automate repetitive work, 
-and support data-driven decision making.
+Bio: "I transform complex business data into actionable growth strategies. With a strong foundation in data analytics, I specialize in identifying operational bottlenecks and profit leakages.
 
-I enjoy working with structured data, creating clear reports, 
-and continuously improving my technical and analytical skills.
-## Skills
+Key Achievements:
 
-- Python (data analysis, scripting, automation)
-- Advanced Excel (pivot tables, dashboards, formulas)
-- MySQL (queries, joins, database handling)
-- AI tools for productivity and analysis
+Logistics Risk Analysis: Developed a risk heatmap for a global supply chain, identifying a 95% failure rate in premium shipping modes and mapping high-risk delivery regions.
 
-## 🌐 Connect With Me
+Profitability Optimization: Analyzed restaurant sales data to identify peak performance hours and low-margin product categories.
 
-- 💼 LinkedIn:-https://www.linkedin.com/in/sweta-saini24/
-  
+Tech Stack: Python (Pandas, Seaborn, Matplotlib), SQL, Feature Engineering, and Statistical Analysis.
 
+I don’t just provide graphs; I provide solutions that save costs and improve efficiency."
 
