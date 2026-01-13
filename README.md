@@ -29,7 +29,8 @@ I transform raw, complex data into actionable business strategies. Passionate ab
 ### Connect with Me
 I am open to freelance projects and collaborations in the Data Analytics domain.
 
-* **LinkedIn:** https://www.linkedin.com/in/sweta-saini24/ 
+* **LinkedIn:** https://www.linkedin.com/in/sweta-saini24/
+**Email id: swetainis.s@gmail.com**
 
 
 ---
